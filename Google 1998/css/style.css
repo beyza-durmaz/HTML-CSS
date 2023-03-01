@@ -1,0 +1,65 @@
+body {
+    background-color: #ffffff;
+    display: block;
+    text-align: center;
+}
+
+.ust-kutu {
+    width: 90%;
+    margin: auto;
+    background-color: #eeee;
+}
+
+.search-box {
+    padding: 1px 2px;
+    width: 25%;
+}
+
+.alt-kutu {
+    width: 90%;
+    margin: auto;
+    margin-top: 2px;
+}
+
+.kutu1 {
+    width: 37%;
+    height: 75px;
+    background-color: #7EE5DA;
+    float: left;
+}
+
+.kutu2 {
+    width: 19%;
+    height: 75px;
+    background-color: #70CCC2;
+    float: left;
+    margin-left: 2px;
+    font-size: small;
+}
+
+.kutu3 {
+    width: 43.6%;
+    height: 75px;
+    background-color: #62B3AA;
+    float: left;
+    margin-left: 2px;
+    font-size: small;
+}
+.center {
+    padding-left: 175px;
+    padding-top: 7px;
+}
+
+.center1{
+    padding-left: 80px;
+    padding-top: 3px;
+}
+
+.footer {
+    display: inline;
+    width: 100%;
+    text-align: center;
+    font-size: small;
+    float: left;
+    padding-top: 8px;
+}
